@@ -2,6 +2,10 @@
 
 🚀 A simple and modern blog application built with **React Router**. Navigate through blog posts seamlessly with dynamic routing.
 
+🌐 Live Demo
+
+🔗 **Try the App Here:** [React Blog Router Live](https://react-blog-router.vercel.app/)
+
 ## 📌 Features
 ✅ **React Router v6** for seamless navigation  
 ✅ **Dynamic Blog Details Page** using route parameters  
